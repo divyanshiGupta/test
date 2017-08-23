@@ -1,4 +1,0 @@
-hello there!
-this is the first time i am using git to push/pull from github.
-thank you
-enjoy!!!
